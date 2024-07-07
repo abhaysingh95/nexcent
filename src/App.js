@@ -17,37 +17,17 @@ function App() {
   return (
     <div className="bg-[#F5F7FA] m-0 p-0 ">
       
-      <div>
-        <Navbar/>
-      </div>
-      <div>
-        <Herosection/>
-      </div>
-      <div>
-        <Client/>
-      </div>
-      <div>
-        <Community/>
-      </div>
-      <div>
-        <Unlock/>
-      </div>
-      <div>
-        <Achievements/>
-      </div>
-      <div>
-        <Calendar/>
-      </div>
-      <div>
-        <Customer/>
-      </div>
-      <div>
-        <CommunityBase/>
-      </div>
-      <div>
-        <FooterOne/>
-      </div>
-      <Footer/>
+        <Navbar />
+        <Herosection />
+        <Client />
+        <Community />
+        <Unlock />
+        <Achievements />
+        <Calendar />
+        <Customer />
+        <CommunityBase />
+        <FooterOne />
+        <Footer />
 
     </div>
     
