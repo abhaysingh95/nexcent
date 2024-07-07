@@ -16,7 +16,7 @@ const CommunityBase = () => {
         <div className="  mt-1 grid grid-cols-1 sm:grid-cols-3 gap-24 ">
           {/* Image 1 */}
           <div className="relative text-center">
-            <img src="./commBase1.jpeg" alt="Image 1" className="w-96 shadow-md rounded-md h-auto mb-4"/>
+            <img src="./commBase1.jpeg" alt="Image 1" className="w-96 shadow-md rounded-md h-auto mb-16"/>
             <div className="absolute  left-14 right-0 top-40 rounded-md shadow-md bg-[#F5F7FA] p-5 z-28  w-64 " style={{ minWidth: "16rem" }}>
               <p className="text-lg mb-2">Creating Streamlined Safeguarding Processes with OneRen</p>
               <div className="flex items-center justify-center">
