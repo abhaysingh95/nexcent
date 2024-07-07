@@ -9,7 +9,7 @@ const Customer = () => {
   Nam nec ante.`;
 
   return (
-    <div className="bg-[#F5F7FA] flex flex-col m-12.5 mb-0 items-center justify-center p-0">
+    <div className="bg-[#F5F7FA] flex flex-col mb-0 items-center justify-center p-0">
       <div className="flex flex-col md:flex-row space-x-8 mb-16 ">
         {/* Left Frame */}
         <div className="md:w-1/4 flex items-center justify-center p-4">
